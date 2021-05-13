@@ -1,0 +1,5 @@
+type user @model {
+  id: ID!
+  username: String!
+  mobilenumber: String!
+}

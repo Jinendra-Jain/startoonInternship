@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749155015809",
+    "firebase_url": "https://fir-cab96.firebaseio.com",
+    "project_id": "fir-cab96",
+    "storage_bucket": "fir-cab96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749155015809:android:5ada409a3e483f868b4180",
+        "android_client_info": {
+          "package_name": "com.example.interviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749155015809-frfqcqqo19lk1i6529mna56mf9106bnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interviewapp",
+            "certificate_hash": "185bf1e6cb7e1ee935ab2c48c26715c0c36b560a"
+          }
+        },
+        {
+          "client_id": "749155015809-l6j86hdabmoo49gvft4j5alhr560k3fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5G7EQJ4-69NRxfYyJEZACDqQUpW5wB7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749155015809-l6j86hdabmoo49gvft4j5alhr560k3fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+# this is an auto generated file. This will be overwritten
+mutation CreateUser(
+  $input: CreateUserInput!
+  $condition: ModeluserConditionInput
+) {
+  createUser(input: $input, condition: $condition) {
+    id
+    username
+    mobilenumber
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+mutation UpdateUser(
+  $input: UpdateUserInput!
+  $condition: ModeluserConditionInput
+) {
+  updateUser(input: $input, condition: $condition) {
+    id
+    username
+    mobilenumber
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}
+mutation DeleteUser(
+  $input: DeleteUserInput!
+  $condition: ModeluserConditionInput
+) {
+  deleteUser(input: $input, condition: $condition) {
+    id
+    username
+    mobilenumber
+    _version
+    _deleted
+    _lastChangedAt
+    createdAt
+    updatedAt
+  }
+}

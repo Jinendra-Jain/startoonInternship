@@ -1,0 +1,15 @@
+{
+  "amplify": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-interviewapp-amplify-171332-authRole",
+      "UnauthRoleArn": "arn:aws:iam::535860715248:role/amplify-interviewapp-amplify-171332-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::535860715248:role/amplify-interviewapp-amplify-171332-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-interviewapp-amplify-171332-deployment",
+      "UnauthRoleName": "amplify-interviewapp-amplify-171332-unauthRole",
+      "StackName": "amplify-interviewapp-amplify-171332",
+      "StackId": "arn:aws:cloudformation:ap-south-1:535860715248:stack/amplify-interviewapp-amplify-171332/4ac36070-b317-11eb-afde-028610bca50e",
+      "AmplifyAppId": "dcw9cs69rkajt"
+    }
+  }
+}
